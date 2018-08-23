@@ -1,0 +1,10 @@
+{
+  "name": "create-y",
+  "version": "1.0.0",
+  "description": "For when `npm init -y` is too many keystrokes",
+  "main": "index.js",
+  "bin": "cli.js",
+  "keywords": [],
+  "author": "Justin Searls <searls@gmail.com>",
+  "license": "GPL-3.0"
+}
